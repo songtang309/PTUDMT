@@ -1,0 +1,25 @@
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.csprojAssemblyReference.cache
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.MainForm.resources
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.Properties.Resources.resources
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.csproj.GenerateResource.cache
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.csproj.CoreCompileInputs.cache
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\bin\Debug\BaiThietKeForm.exe.config
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\bin\Debug\BaiThietKeForm.exe
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\bin\Debug\BaiThietKeForm.pdb
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.exe
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.pdb
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.frmBai1.resources
+C:\Users\PC303\Desktop\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.frmBai2.resources
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\bin\Debug\BaiThietKeForm.exe.config
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\bin\Debug\BaiThietKeForm.exe
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\bin\Debug\BaiThietKeForm.pdb
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.frmBai1.resources
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.frmBai2.resources
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.MainForm.resources
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.exe
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThietKeForm\BaiThietKeForm\obj\Debug\BaiThietKeForm.pdb

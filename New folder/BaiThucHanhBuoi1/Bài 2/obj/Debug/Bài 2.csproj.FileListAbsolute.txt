@@ -1,0 +1,9 @@
+C:\Users\PC303\Desktop\New folder\BaiThucHanhBuoi1\Bài 2\bin\Debug\Bài 2.exe.config
+C:\Users\PC303\Desktop\New folder\BaiThucHanhBuoi1\Bài 2\bin\Debug\Bài 2.exe
+C:\Users\PC303\Desktop\New folder\BaiThucHanhBuoi1\Bài 2\bin\Debug\Bài 2.pdb
+C:\Users\PC303\Desktop\New folder\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài_2.MainForm.resources
+C:\Users\PC303\Desktop\New folder\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài_2.Properties.Resources.resources
+C:\Users\PC303\Desktop\New folder\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.csproj.GenerateResource.cache
+C:\Users\PC303\Desktop\New folder\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.csproj.CoreCompileInputs.cache
+C:\Users\PC303\Desktop\New folder\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.exe
+C:\Users\PC303\Desktop\New folder\BaiThucHanhBuoi1\Bài 2\obj\Debug\Bài 2.pdb
