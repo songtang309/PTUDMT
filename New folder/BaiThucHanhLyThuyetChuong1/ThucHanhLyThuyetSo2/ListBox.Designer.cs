@@ -41,6 +41,14 @@
             this.lbDanhSach.ForeColor = System.Drawing.Color.MidnightBlue;
             this.lbDanhSach.FormattingEnabled = true;
             this.lbDanhSach.ItemHeight = 16;
+            this.lbDanhSach.Items.AddRange(new object[] {
+            "Phạm Vũ Ngọc Hà",
+            "Hoàng Văn Hùng",
+            "Lê Thị Vân",
+            "Nguyễn Thị Thu",
+            "Lê Văn Quốc",
+            "Lê Văn Phước",
+            "Trương Văn Dũng"});
             this.lbDanhSach.Location = new System.Drawing.Point(22, 81);
             this.lbDanhSach.MultiColumn = true;
             this.lbDanhSach.Name = "lbDanhSach";

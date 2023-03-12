@@ -19,8 +19,7 @@ namespace ThucHanhLyThuyetSo2
 
         private void frmListBox_Load(object sender, EventArgs e)
         {
-            string[] datas = { "Pham Vu Ngoc Ha", "Hoang Van Hung", "Le Thi Van", "Nguyen Thi Thu", "Le Van Quoc", "Le Van Phuoc", " Truong Van Dung" };
-            this.lbDanhSach.DataSource = datas;
+         
         }
         private void lbDanhSach_SelectedIndexChanged(object sender, EventArgs e)
         {
