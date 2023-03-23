@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThucHanhLab2\2111881_Lab2_Bài1\2111881_Lab2_Bài1\2111881_Lab2_Bài1\bin\Debug\2111881_Lab2_Bài1.exe.config
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThucHanhLab2\2111881_Lab2_Bài1\2111881_Lab2_Bài1\2111881_Lab2_Bài1\bin\Debug\2111881_Lab2_Bài1.exe
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThucHanhLab2\2111881_Lab2_Bài1\2111881_Lab2_Bài1\2111881_Lab2_Bài1\bin\Debug\2111881_Lab2_Bài1.pdb
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThucHanhLab2\2111881_Lab2_Bài1\2111881_Lab2_Bài1\2111881_Lab2_Bài1\obj\Debug\2111881_Lab2_Bài1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThucHanhLab2\2111881_Lab2_Bài1\2111881_Lab2_Bài1\2111881_Lab2_Bài1\obj\Debug\2111881_Lab2_Bài1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThucHanhLab2\2111881_Lab2_Bài1\2111881_Lab2_Bài1\2111881_Lab2_Bài1\obj\Debug\_2111881_Lab2_Bài1.frmTrungTam.resources
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThucHanhLab2\2111881_Lab2_Bài1\2111881_Lab2_Bài1\2111881_Lab2_Bài1\obj\Debug\_2111881_Lab2_Bài1.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThucHanhLab2\2111881_Lab2_Bài1\2111881_Lab2_Bài1\2111881_Lab2_Bài1\obj\Debug\2111881_Lab2_Bài1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThucHanhLab2\2111881_Lab2_Bài1\2111881_Lab2_Bài1\2111881_Lab2_Bài1\obj\Debug\2111881_Lab2_Bài1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThucHanhLab2\2111881_Lab2_Bài1\2111881_Lab2_Bài1\2111881_Lab2_Bài1\obj\Debug\2111881_Lab2_Bài1.exe
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\BaiThucHanhLab2\2111881_Lab2_Bài1\2111881_Lab2_Bài1\2111881_Lab2_Bài1\obj\Debug\2111881_Lab2_Bài1.pdb

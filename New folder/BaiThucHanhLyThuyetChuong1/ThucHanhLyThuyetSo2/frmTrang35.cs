@@ -47,7 +47,7 @@ namespace ThucHanhLyThuyetSo2
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             string strURl = Convert.ToString(e.Link.LinkData);
-            if (strURl.StartsWith("https://www."))
+            if (strURl.StartsWith("https://www.ctk45.com"))
             {
                 Process.Start(strURl); 
             }
