@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Lab07\bin\Debug\Lab07.exe.config
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Lab07\bin\Debug\Lab07.exe
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Lab07\bin\Debug\Lab07.pdb
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Lab07\obj\Debug\Lab07.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Lab07\obj\Debug\Lab07.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Lab07\obj\Debug\Lab07.Form1.resources
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Lab07\obj\Debug\Lab07.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Lab07\obj\Debug\Lab07.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Lab07\obj\Debug\Lab07.exe
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Lab07\obj\Debug\Lab07.pdb

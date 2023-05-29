@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Nhóm\bin\Debug\Nhóm.exe.config
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Nhóm\bin\Debug\Nhóm.exe
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Nhóm\bin\Debug\Nhóm.pdb
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Nhóm\obj\Debug\Nhóm.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Nhóm\obj\Debug\Nhóm.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Nhóm\obj\Debug\Nhóm.frmQuanLyPhong.resources
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Nhóm\obj\Debug\Nhóm.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Nhóm\obj\Debug\Nhóm.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Nhóm\obj\Debug\Nhóm.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Nhóm\obj\Debug\Nhóm.exe
+C:\Users\HP\OneDrive\Máy tính\Home\New folder\Nhóm\obj\Debug\Nhóm.pdb
